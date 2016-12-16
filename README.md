@@ -1,3 +1,3 @@
-# ngmobile
-Test Mobile Angular UI
-http://mobileangularui.com/
+# Maratona
+Resolvendo problemas da Maratona de programação
+http://maratona.ime.usp.br/
